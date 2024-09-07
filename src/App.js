@@ -259,7 +259,7 @@ Atividade:</h2></p>
           </h3></p>
       )}
       
-      <p><br></br><button onClick={handleZerar}>Zerar Tudo</button></p>
+      <p><br></br><br></br><button onClick={handleZerar}>Zerar Tudo</button></p>
     </div>
   );
 }
