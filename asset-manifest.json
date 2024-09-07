@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/motorapp/static/css/main.487f49d2.css",
+    "main.js": "/motorapp/static/js/main.a9ab9723.js",
+    "static/js/453.dd528986.chunk.js": "/motorapp/static/js/453.dd528986.chunk.js",
+    "static/media/vale_a_pena_ubber_99_ifood.png": "/motorapp/static/media/vale_a_pena_ubber_99_ifood.8faf22794474b20a5c5d.png",
+    "index.html": "/motorapp/index.html",
+    "main.487f49d2.css.map": "/motorapp/static/css/main.487f49d2.css.map",
+    "main.a9ab9723.js.map": "/motorapp/static/js/main.a9ab9723.js.map",
+    "453.dd528986.chunk.js.map": "/motorapp/static/js/453.dd528986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487f49d2.css",
+    "static/js/main.a9ab9723.js"
+  ]
+}
