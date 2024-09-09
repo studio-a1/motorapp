@@ -1,8 +1,8 @@
-Motorapp é um projeto que propoe resposta a questão pratica de explorar os apps de mobilidade.
+Motorapp é um projeto que exorta resposta a questão pratica de explorar os apps de mobilidade.
 
 "Vale a pena dirigir/entregar Ubber, 99, Ifood   etc ? "
 
-O site fornece um cálculo final de despesas do motorista ou proponente a, para assim exortar a resposta a pergunta.
+O site fornece um cálculo simples final de despesas do motorista ou proponente a tal, para assim exortar a resposta a pergunta.
 
-Em resposta e complementar a resposta, tem-se em vista que os resultados de despesa devem ser vistos como o mínimo a faturar e abrem o precednte
-justamente de projetar quanto precisará trabalhar para lucrar.
+Em resposta e complementar à resposta, tem-se em vista que o resultado obtido deve ser visto como o mínimo a faturar e abre o precednte
+justamente de projetar quanto precisará além para obter lucro com a atividade.
